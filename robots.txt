@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://esumptiv.gopde.com/esumptiv.txt
